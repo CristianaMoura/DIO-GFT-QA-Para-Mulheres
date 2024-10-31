@@ -1,2 +1,4 @@
-# DIO-GFT-QA-Para-Mulheres
-Exercicios sobre o bootcamp da Dio, entre Java e testes.
+# Repositório Estudos e Projetos da Cris
+
+
+Exercicios em Python , da segunda fase  do bootcamp em Dados Analytcs da WoMarkersCode.
